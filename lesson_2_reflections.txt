@@ -1,0 +1,10 @@
+What happens when you initialize a repository? Why do you need to do it?
+	
+	git creates a folder for containing the history information of the
+	repository. I need to do this otherwhise git doesn't have the metadata
+	that it needs for work with the repository.
+	
+How is the staging area different from the working directory and the
+repository? What value do you think it offers?
+
+	Permit to perform logical changes all at once and other things.
