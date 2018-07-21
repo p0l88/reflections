@@ -14,3 +14,9 @@ change?
 
 	By checking the differences between working directory and staging area,
 	and also between staging area and repository.
+	
+What are some situations when branches would be helpful in keeping your history
+organized? How would branches help?
+
+	When I want to experiment some new features or add functionality without
+	interfer with the official version.
