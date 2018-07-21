@@ -20,3 +20,8 @@ organized? How would branches help?
 
 	When I want to experiment some new features or add functionality without
 	interfer with the official version.
+
+How do the diagrams help you visualize the branch structure?
+	
+	It helps know exactly the history of the branches and where they split.
+	It's also a visual help to keep in mind what changes were made.
