@@ -32,3 +32,9 @@ the diagram the way we do?
 	The result is that is possible to join features from different people.
 	In the diagram is rapresented this way for showing that two branches are
 	merged into one.
+	
+What are the pros and cons of Git’s automatic merging vs. always doing merges
+manually?
+	
+	It can save a lot of time for changes that not affect each other, and
+	permit to focus on conflicts, besides it can lead in code duplication.
