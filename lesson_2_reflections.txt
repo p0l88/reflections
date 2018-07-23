@@ -25,3 +25,10 @@ How do the diagrams help you visualize the branch structure?
 	
 	It helps know exactly the history of the branches and where they split.
 	It's also a visual help to keep in mind what changes were made.
+	
+What is the result of merging two branches together? Why do we represent it in
+the diagram the way we do?
+
+	The result is that is possible to join features from different people.
+	In the diagram is rapresented this way for showing that two branches are
+	merged into one.
