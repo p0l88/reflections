@@ -24,3 +24,10 @@ stored locally?
 	
 	Benefits are that you have the last changes of the repository on your
 	machine and can work locally.
+
+How would you collaborate without using Git or GitHub? What would be easier,
+and what would be harder?
+
+	Collaboration without version control could be frustrating since you
+	should spend a lot of time checking if a version is correct and how to
+	implement it in your version.
