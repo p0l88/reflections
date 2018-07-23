@@ -18,3 +18,9 @@ use one instead of another?
 	the remote version.
 	Branches are useful to work on features or bug correction on a version
 	without change the official version at least util the changes are approved.
+	
+What is the benefit of having a copy of the last known state of the remote
+stored locally?
+	
+	Benefits are that you have the last changes of the repository on your
+	machine and can work locally.
