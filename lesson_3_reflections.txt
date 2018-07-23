@@ -9,3 +9,12 @@ automatically stay up-to-date with your remote repository?
 
 	Because if I'm working locally on a feature and someone update the github
 	version it would eventually overwrite my work.
+
+Describe the differences between forks, clones, and branches. When would you
+use one instead of another?
+
+	Fork is for work on a different version without modify the original one.
+	Clones is for work on a repository that could modify the local version as
+	the remote version.
+	Branches are useful to work on features or bug correction on a version
+	without change the official version at least util the changes are approved.
