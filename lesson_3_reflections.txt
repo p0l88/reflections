@@ -31,3 +31,8 @@ and what would be harder?
 	Collaboration without version control could be frustrating since you
 	should spend a lot of time checking if a version is correct and how to
 	implement it in your version.
+	
+When would you want to make changes in a separate branch rather than direcly
+in master? What benefits does each approach have?
+
+	When collaborating with others.
